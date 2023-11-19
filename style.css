@@ -1,0 +1,138 @@
+.navbar-brand
+{
+    font-size: 2.25rem;
+    letter-spacing: -3px;
+    color: red;
+    font-weight: bold;
+}
+
+.sp
+{
+    color: #fff;
+    /* text-shadow: 1px solid aqua !important; */
+    text-shadow: 2px 0 red, -2px 0 red, 0 2px red, 0 -2px red, 1px 1px red, -1px -1px red, -1px 1px red, 1px -1px red;
+}
+
+.nav-item a{
+    color: #000;
+    font-size: 20px;
+}
+
+/* second section */
+.second-section
+{
+    background-image: url('images/slider-image-landscape-1500w.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px 0 80px;
+}
+
+.para
+{
+    font-size: 50px;
+    font-weight: bold;
+    margin: auto;
+}
+
+.para p
+{
+    text-align: center;
+    line-height: 60px;
+}
+
+.para span{
+    color: red;
+}
+
+.para sub{
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.btn-danger{
+    background-color: red;
+    font-size: 25px;
+    width: 18%;
+    font-weight: bold;
+}
+
+.btn-danger:hover
+{
+    border: 1px solid red;
+    background: white;
+    color: red;
+}
+
+.btn-primary{
+    background: white;
+    color: red;
+    font-weight: bold;
+    border: 1px solid red;
+    margin: 10px;
+}
+
+.btn-primary:hover{
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+}
+
+/* 3rd section */
+.pp1{
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.pp2{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.hh1
+{
+    color: red;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.bg-white:hover{
+    border: 1px solid red !important;
+    cursor: pointer;
+}
+
+.btn-success{
+    background: red;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border: 1px solid red;
+}
+
+
+/* 3rd section */
+
+.card1{
+    border: none;
+    border-radius: 0;
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 0rem 1rem;
+}
+
+.pp3{
+    font-size: 20px;
+}
+
+.pp4{
+    color: blue;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+/* 4th section */
+.card-title1{
+    color: red;
+}
